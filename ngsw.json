@@ -1,0 +1,73 @@
+{
+  "configVersion": 1,
+  "timestamp": 1794830233869,
+  "index": "/sansu-app/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/sansu-app/index.html",
+        "/sansu-app/main-LKGUHRKH.js",
+        "/sansu-app/manifest.webmanifest",
+        "/sansu-app/styles-JSC6IAYN.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/sansu-app/icons/apple-touch-icon.png",
+        "/sansu-app/icons/favicon-48.png",
+        "/sansu-app/icons/icon-192.png",
+        "/sansu-app/icons/icon-512.png",
+        "/sansu-app/icons/icon.svg",
+        "/sansu-app/icons/maskable-512.png",
+        "/sansu-app/icons/maskable.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/sansu-app/icons/apple-touch-icon.png": "d1c028ada59e1552d5befe68cbc8958be0b3b78a",
+    "/sansu-app/icons/favicon-48.png": "762a662644584bc480dca6068039f639a3323fc7",
+    "/sansu-app/icons/icon-192.png": "12b00f09d66ac75264505997904d4521697a702a",
+    "/sansu-app/icons/icon-512.png": "722c41638263918154ca16e0ea349c15e8540c99",
+    "/sansu-app/icons/icon.svg": "7be8c5aa2b6fd9995c10136071ca432e51629f59",
+    "/sansu-app/icons/maskable-512.png": "17fc96e7b4ce6d23d9b3ea7166de98fdbe4263b1",
+    "/sansu-app/icons/maskable.svg": "99da76905702616aa42c0e7884a04ac2b32eb418",
+    "/sansu-app/index.html": "47394c5c42183db681323001516ed3778b1aa6f2",
+    "/sansu-app/main-LKGUHRKH.js": "6a28c5b2ef1fcfb33d131f177534f001cdab8f66",
+    "/sansu-app/manifest.webmanifest": "184a0a0b07d2a337fd15689c2cccc2a53d1b4b73",
+    "/sansu-app/styles-JSC6IAYN.css": "03cd9fed78bb0fdfa02988eae12b06ffa0c08d4c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
