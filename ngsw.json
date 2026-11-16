@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1794830275473,
+  "timestamp": 1794852646625,
   "index": "/sansu-app/index.html",
   "assetGroups": [
     {
@@ -46,7 +46,7 @@
     "/sansu-app/icons/icon.svg": "7be8c5aa2b6fd9995c10136071ca432e51629f59",
     "/sansu-app/icons/maskable-512.png": "17fc96e7b4ce6d23d9b3ea7166de98fdbe4263b1",
     "/sansu-app/icons/maskable.svg": "99da76905702616aa42c0e7884a04ac2b32eb418",
-    "/sansu-app/index.html": "47394c5c42183db681323001516ed3778b1aa6f2",
+    "/sansu-app/index.html": "c23fd51daf8a47f8f11f7442ae02557273cb28a5",
     "/sansu-app/main-LKGUHRKH.js": "6a28c5b2ef1fcfb33d131f177534f001cdab8f66",
     "/sansu-app/manifest.webmanifest": "184a0a0b07d2a337fd15689c2cccc2a53d1b4b73",
     "/sansu-app/styles-JSC6IAYN.css": "03cd9fed78bb0fdfa02988eae12b06ffa0c08d4c"
