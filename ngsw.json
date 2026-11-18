@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1794853892814,
+  "timestamp": 1794965914362,
   "index": "/sansu-app/index.html",
   "assetGroups": [
     {
@@ -12,9 +12,9 @@
       },
       "urls": [
         "/sansu-app/index.html",
-        "/sansu-app/main-OI3QXHDC.js",
+        "/sansu-app/main-JLW6X7OU.js",
         "/sansu-app/manifest.webmanifest",
-        "/sansu-app/styles-JSC6IAYN.css"
+        "/sansu-app/styles-JKXS3N34.css"
       ],
       "patterns": []
     },
@@ -46,10 +46,10 @@
     "/sansu-app/icons/icon.svg": "7be8c5aa2b6fd9995c10136071ca432e51629f59",
     "/sansu-app/icons/maskable-512.png": "17fc96e7b4ce6d23d9b3ea7166de98fdbe4263b1",
     "/sansu-app/icons/maskable.svg": "99da76905702616aa42c0e7884a04ac2b32eb418",
-    "/sansu-app/index.html": "85cc3bf035afa90c447a5c96bf8c169ad4e0ce54",
-    "/sansu-app/main-OI3QXHDC.js": "74777d7ca5f22931377bf374dca627586f2bbcd8",
+    "/sansu-app/index.html": "c20275789b7c7975980e15191a65528e93e5e66a",
+    "/sansu-app/main-JLW6X7OU.js": "e7c3982f13357a30cf6bf63f94302af60e83b9a3",
     "/sansu-app/manifest.webmanifest": "184a0a0b07d2a337fd15689c2cccc2a53d1b4b73",
-    "/sansu-app/styles-JSC6IAYN.css": "03cd9fed78bb0fdfa02988eae12b06ffa0c08d4c"
+    "/sansu-app/styles-JKXS3N34.css": "86011919ffe9cd2497eba5e0a12d7c478f3c4775"
   },
   "navigationUrls": [
     {
